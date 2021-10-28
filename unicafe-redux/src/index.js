@@ -47,6 +47,7 @@ const App = () => {
         isOk={ok}
         isBad={bad}
       />
+      <div>Este es un nuevo div</div>
     </div>
   )
 }
