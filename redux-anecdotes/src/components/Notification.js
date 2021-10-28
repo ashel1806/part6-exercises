@@ -12,7 +12,7 @@ const Notificaction = () => {
 
   return (
     <div style={notification.message === '' ? null : style}>
-      {notification.message} a mostrar
+      {notification.message}
     </div>
   )
 }
